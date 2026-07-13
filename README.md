@@ -49,8 +49,11 @@ Aplikasi web modern untuk mengelola data karyawan, departemen, dan laporan perus
 <summary><b>🔑 Autentikasi</b></summary>
 <br>
 
-**Login**
+**Login Admin**
 ![Login](picture/login.png.png)
+
+**Login Karyawan**
+![Login Karyawan](picture/loginkaryawan.png)
 
 </details>
 
@@ -59,22 +62,22 @@ Aplikasi web modern untuk mengelola data karyawan, departemen, dan laporan perus
 <br>
 
 **Dashboard**
-![Dashboard Admin](picture/dashboard-admin.png)
+![Dashboard Admin](picture/dashboardAdmin.png)
 
 **Data Karyawan**
-![Data Karyawan](picture/data-karyawan.png.png)
+![Data Karyawan](picture/daftarkaryawan.png)
 
 **Departemen**
-![Departemen](picture/departemen.png.png)
+![Departemen](picture/departemen.png)
 
 **Laporan**
-![Laporan](picture/laporan.png.png)
+![Laporan](picture/laporan.png)
 
 **Impor / Ekspor**
-![Impor Ekspor](picture/impor-ekspor.png.png)
+![Impor Ekspor](picture/impor-ekspor.png)
 
 **Pengaturan Akun**
-![Pengaturan Admin](picture/pengaturan-admin.png.png)
+![Pengaturan Admin](picture/pengaturan-admin.png)
 
 </details>
 
@@ -83,19 +86,19 @@ Aplikasi web modern untuk mengelola data karyawan, departemen, dan laporan perus
 <br>
 
 **Dashboard**
-![Dashboard Karyawan](picture/dashboard-karyawan.png.png)
+![Dashboard Karyawan](picture/dashboardKaryawan.png)
 
 **Cari Rekan Kerja**
-![Cari Rekan Kerja](picture/cari-rekan-kerja.png.png)
+![Cari Rekan Kerja](picture/rekankerja.png)
 
 **Slip Gaji**
-![Slip Gaji](picture/slip-gaji.png.png)
+![Slip Gaji](picture/slip-gaji.png)
 
 **Data Diri**
-![Data Diri](picture/data-diri.png.png)
+![Data Diri](picture/data-diri.png)
 
 **Pengaturan Akun**
-![Pengaturan Karyawan](picture/pengaturan-karyawan.png.png)
+![Pengaturan Karyawan](picture/pengaturan-karyawan.png)
 
 </details>
 
