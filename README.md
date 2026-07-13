@@ -59,7 +59,7 @@ Aplikasi web modern untuk mengelola data karyawan, departemen, dan laporan perus
 <br>
 
 **Dashboard**
-![Dashboard Admin](picture/dashboard-admin.png.png)
+![Dashboard Admin](picture/dashboard-admin.png)
 
 **Data Karyawan**
 ![Data Karyawan](picture/data-karyawan.png.png)
